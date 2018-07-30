@@ -18,8 +18,27 @@ h3 {
 	font-size: 1em;
 }
 
+body p:first-of-type span {
+	color: midnightblue;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+dl dt{
+	font-weight: bolder;
+	color: #307351;
+}
+
+/*
 #buddy, span {
 	color: midnightblue;
 	font-size: 1.2em;
 	font-weight: bold;
 }
+
+
+
+.visual div {
+	display: flex;
+}
+*/
